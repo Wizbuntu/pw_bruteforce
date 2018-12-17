@@ -1,5 +1,5 @@
 # pw_bruteforce
-PW_Bruteforce is a basic dictionary bruteforce hacking script for hacking (bruteforcing) into google accounts
+PW_Bruteforce is a basic dictionary bruteforce attack script for hacking (bruteforcing) into google accounts
 
 # Installation
 clone the repository: On Linux, git clone  https://github.com/Wizbuntu/pw_bruteforce.git
